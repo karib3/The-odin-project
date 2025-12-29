@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-top: 100px;
+    margin-left: 45%;
+    background-color: gray;
+    width: max-content;
+    height: max-content;
+}
