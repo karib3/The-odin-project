@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation{
+    background-color: aqua;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
